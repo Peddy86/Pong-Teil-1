@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pong>
+  <groesse>
+    <breite>1024</breite>
+    <hoehe>768</hoehe>
+  </groesse>
+  <schwierigkeitsgrad>
+    <wert>4</wert>
+  </schwierigkeitsgrad>
+</pong>
